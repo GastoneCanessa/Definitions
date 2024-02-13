@@ -1,6 +1,18 @@
 # 1. Variabile? 
+
+        [ 
+          Una variabile è un riferimento a una zona di memoria che può contenere valori primitivi e oggetti,
+          identificata da un simbolo alfanumerico. Per i primitivi, la variabile è un riferimento univoco a quella zona di memoria.
+        ]
+
 # 2. I parametri in Java vengono passati per valore o per riferimento? 
 # 3. Variabili primitive vs variabile oggetto? 
+
+        [
+          Le variabili primitive hanno valori predefiniti (come 0 per i numeri e false per i booleani) se non vengono inizializzate,
+          mentre le variabili di oggetto iniziano come null e possono contenere riferimenti a oggetti che hanno metodi e attributi associati.      
+        ]
+
 # 4. Tipi boxati? 
 # 5. Contesto di esecuzione? 
 # 6. Scope di una variabile? 
@@ -10,7 +22,11 @@
 # 10. Rendere efficiente un codice rispetto alla memoria? 
 # 11. Memory Leak? 
 # 12. If?
-        [È un costrutto che fa eseguire una porzione di codice solo se una determinata condizione è vera.]
+
+        [
+          È un costrutto che fa eseguire una porzione di codice solo se una determinata condizione è vera.
+        ]
+
 # 13. Espressione? 
 # 14. Forme di selezione?
 # 15. Forme di iterazione?
