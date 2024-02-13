@@ -1,9 +1,9 @@
 1. Variabile? 
-2. I parametri in Java vengono passati per valore o per riferimento? 
+2. I parametri in Java vengono passati per valore o per riferimento? Java fa passaggi di parametri per VALORE (ma per gli oggetti il parametro è una variabile che fa riferimento all'oggetto in memoria)
 3. Variabili primitive vs variabile oggetto? 
-4. Tipi boxati? 
-5. Contesto di esecuzione? 
-6. Scope di una variabile? 
+4. Tipi boxati? Oggetti che includono un primitivo
+5. Contesto di esecuzione? Le variabili e i metodi che il programma ha a disposizione a una determinata riga.
+6. Scope di una variabile? Blocco di codice in cui una variabile esiste.
 7. Variabile locale? 
 8. Visibilità? 
 9. Garbage Collector? 
@@ -11,3 +11,4 @@
 11. Memory Leak? 
 12. If? 
 13. Espressione? 
+14. Ciclo While? Costrutto che fa eseguire il corpo del cicloCORPO DEL CICLO finchè la CONDIZIONE DI RIPETIZIONE è vera.
