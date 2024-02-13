@@ -11,3 +11,13 @@
 11. Memory Leak? 
 12. If? 
 13. Espressione? 
+14.Forme di selezione?
+15.Forme di iterazione?
+16.Proprietà static?
+17.Cosa intendiamo per contesto?
+18.cos'è un costrutto?
+19.che significa inizializzazione?
+20.Che significa instanziazione?
+21.Quali sono le operazioni di C.R.U.D.?
+22.Cos'è una mappa?
+23.Definizione di O.R.M.?
