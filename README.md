@@ -6,7 +6,7 @@ Grazie per il vostro interesse nel contribuire al progetto di definizioni del co
 
 Siete tutti benvenuti a contribuire al progetto aggiungendo nuove definizioni, migliorando quelle esistenti o correggendo eventuali errori. Ecco come potete farlo:
 
-1. **Fork** del repository.
+1. **Fork** del branch `sviluppo` del repository.
 2. Apportate le vostre modifiche.
 3. Create un **Pull Request** con una breve descrizione delle modifiche apportate.
 
