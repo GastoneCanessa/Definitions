@@ -10,6 +10,7 @@
 10. Rendere efficiente un codice rispetto alla memoria? 
 11. Memory Leak? 
 12. If? 
+        [È un costrutto che fa eseguire una porzione di codice solo se una determinata condizione è vera.]
 13. Espressione? 
 14.Forme di selezione?
 15.Forme di iterazione?
