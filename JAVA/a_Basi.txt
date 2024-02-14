@@ -1,0 +1,53 @@
+# 1 Cosa è un programma?
+
+        Un programma è una sequenza di istruzioni scritte in un linguaggio di programmazione che definisce una serie di operazioni da eseguire da parte di un computer per raggiungere uno specifico obiettivo.
+
+# 2 Variabile? 
+
+          Una variabile è un riferimento a una zona di memoria che può contenere valori primitivi e oggetti,
+          identificata da un simbolo alfanumerico. Per i primitivi, la variabile è un riferimento univoco a quella zona di memoria.
+
+# 3 Variabili primitive vs variabile oggetto? 
+
+          Le variabili primitive hanno valori predefiniti (come 0 per i numeri e false per i booleani) se non vengono inizializzate,
+          mentre le variabili di oggetto iniziano come null e possono contenere riferimenti a oggetti che hanno metodi e attributi associati. 
+
+# 4 Cosa sono i tipi?
+
+           Il concetto di "tipo" si riferisce alla classificazione dei dati in base alle loro caratteristiche e al modo in cui possono essere manipolati dai programmi.
+    
+# 5 Cosa è un'espressione?
+
+           Un'espressione in Java è una combinazione di variabili, costanti, operatori e invocazioni di metodi che produce un valore. 
+
+# 6 Il tipo boolean e le condizioni?
+
+            Il tipo boolean in Java è un tipo di dato che può assumere solo due valori: vero (true) o falso (false). Viene comunemente utilizzato per rappresentare il risultato di espressioni logiche o condizioni, le quali sono valutate per determinare il flusso di controllo di un programma.
+
+# 7 Condizioni composte?
+        
+            Le condizioni composte in programmazione combinano più espressioni logiche tramite operatori logici come && (AND) o || (OR) per valutare la verità complessiva dell'espressione.
+
+# 8 If?
+
+            È un costrutto che fa eseguire una porzione di codice solo se una determinata condizione è vera.
+
+# 9 Operatore ternario?
+
+            L'operatore ternario in programmazione è una forma abbreviata di un'istruzione if-else, che permette di assegnare un valore a una variabile in base alla valutazione di una condizione. 
+
+# 10 Switch?
+       
+            Il costruttore switch in Java è una struttura di controllo che permette di eseguire un blocco di codice differente in base al valore di una variabile.
+
+# 11 Cosa è un ciclo?
+
+            In Java, un ciclo è una struttura che ripete un blocco di codice finché una condizione specificata è vera. I tre tipi principali sono: for, while, e do-while.
+
+# 12 Breack?
+
+            In Java, l'istruzione break termina l'esecuzione del ciclo più interno (for, while, o do-while) o di un blocco switch in cui si trova, trasferendo il controllo all'istruzione immediatamente successiva al ciclo o al blocco switch.
+
+# 13 Continue?
+
+            In Java, l'istruzione continue interrompe l'iterazione corrente di un ciclo (for, while, o do-while) e passa immediatamente alla successiva iterazione del ciclo, saltando qualsiasi codice che segue l'istruzione continue all'interno del corpo del ciclo.

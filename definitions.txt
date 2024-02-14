@@ -32,3 +32,4 @@
 # 21. Quali sono le operazioni di C.R.U.D.?
 # 22. Cos'è una mappa?
 # 23. Definizione di O.R.M.?
+# 24 Cosa è un programma?
