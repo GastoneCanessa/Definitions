@@ -1,6 +1,6 @@
 # 1 Cosa è un tipo?
 
-            In Java, definire un tipo significa creare una nuova classe o interfaccia che specifica un insieme di proprietà (campi) e comportamenti (metodi) che gli oggetti di quel tipo avranno.
+            In Java, definire un tipo significa creare una nuova classe o interfaccia che specifica un insieme di proprietà (campi) e comportamenti (metodi) che gli oggetti di quel tipo avranno.!!
 
 # 2 Classsi?
 
