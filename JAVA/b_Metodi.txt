@@ -1,0 +1,7 @@
+# 1 Cosa è un metodo?
+
+           Un metodo in Java è un blocco di codice che viene eseguito solo quando viene chiamato, può ricevere dati in input, eseguire un'azione e restituire un dato di uscita.
+
+# 2 Cosa è il return?
+
+            L'istruzione return in Java termina un metodo e può restituire un valore al chiamante.

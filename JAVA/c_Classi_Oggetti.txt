@@ -1,0 +1,35 @@
+# 1 Cosa è un tipo?
+
+            In Java, definire un tipo significa creare una nuova classe o interfaccia che specifica un insieme di proprietà (campi) e comportamenti (metodi) che gli oggetti di quel tipo avranno.!!
+
+# 2 Classsi?
+
+            Una classe in Java è una struttura che definisce le proprietà (campi) e i comportamenti (metodi) che caratterizzano un oggetto. Agisce come un modello per creare (istanziare) oggetti con stati e azioni comuni.
+
+# 3 Costruttore?
+
+            Un costruttore in Java è un blocco di codice speciale che viene chiamato per inizializzare un oggetto quando viene creato. Ha lo stesso nome della classe e può essere sovraccaricato per permettere diverse modalità di inizializzazione.
+
+# 4 Costruttore implicito vs esplicito? 
+
+            Il costruttore implicito è fornito da Java quando non si definisce alcun costruttore in una classe, mentre un costruttore esplicito è definito dal programmatore con parametri specifici per inizializzazioni personalizzate.
+
+# 5 Stato di un oggetto?
+          
+            Lo stato di un oggetto in Java è l'insieme dei valori delle sue proprietà (dati) in un dato momento, mentre il comportamento è definito dalle azioni che può eseguire attraverso i suoi metodi (codice). 
+
+# 6 Incapsulamento?
+
+            L'incapsulamento in Java protegge l'integrità dell'oggetto nascondendo i suoi dati interni tramite variabili private e consente la loro manipolazione solo attraverso metodi pubblici getter e setter, facilitando la manutenibilità e la sicurezza del codice.
+
+# 7 Cosa si intende con this?
+
+            In Java, this si riferisce all'istanza corrente dell'oggetto, usato per accedere ai suoi campi e metodi.
+
+# 8 Polimorfismo dei costruttori?
+
+            Il "polimorfismo dei costruttori" si riferisce al sovraccarico dei costruttori in Java, permettendo a una classe di avere più costruttori con firme diverse, ossia con diversi elenchi di parametri, per inizializzare oggetti in modi differenti.
+
+# 9 Cose è l'overloding dei metodi?
+
+            L'overloading dei metodi in Java consente di definire più metodi con lo stesso nome ma firme differenti nella stessa classe, basate sul numero o tipo di parametri.

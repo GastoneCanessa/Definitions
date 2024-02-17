@@ -14,7 +14,17 @@ Siete tutti benvenuti a contribuire al progetto aggiungendo nuove definizioni, m
 
 Per mantenere coerenza e chiarezza, vi preghiamo di seguire il seguente formato per le definizioni:
 
-Ad esempio: Variabile? Una variabile è un riferimento a una zona di memoria che può contenere valori primitivi e oggetti, identificata da un simbolo alfanumerico.
+Ad esempio: [
+
+    # 1. Variabile? 
+
+            Una variabile è un riferimento a una zona di memoria che può contenere valori primitivi e oggetti,
+            identificata da un simbolo alfanumerico.
+
+    # 2. Domanda?
+
+            ....................
+]
 
 ## Linee Guida per le Modifiche
 
