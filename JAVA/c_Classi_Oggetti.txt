@@ -33,3 +33,47 @@
 # 9 Cose è l'overloding dei metodi?
 
             L'overloading dei metodi in Java consente di definire più metodi con lo stesso nome ma firme differenti nella stessa classe, basate sul numero o tipo di parametri.
+
+# 10 Cosa significa sovrascrivere un metodo 'Override'?
+
+            L'override di un metodo in Java consente a una sottoclasse di fornire una specifica implementazione di un metodo ereditato dalla superclasse. Utilizzando l'upcasting, il metodo sovrascritto della sottoclasse viene eseguito, dimostrando il polimorfismo.
+
+# 11 Cosa significa super?
+
+            La parola chiave super in Java consente di accedere a metodi e proprietà della superclasse immediata, ma il suo utilizzo è limitato al contesto di una sottoclasse.
+
+# 12 Cosa sono i tipi astratti?
+
+            In Java, un tipo astratto può riferirsi a una classe astratta o un'interfaccia, usati per definire un contratto senza fornire un'implementazione completa, costringendo le sottoclassi a implementare i metodi astratti specificati.
+
+# 13 Cosa sono le Classi astratte?
+
+            Le classi astratte in Java sono modelli non istanziabili definiti con la parola chiave abstract, contenenti metodi astratti senza implementazione che devono essere implementati dalle sottoclassi. Possono anche estendere altre classi astratte.
+
+# 14 Cosa sono le Interfacce?
+
+            Un'interfaccia in Java definisce un contratto di comportamento che le classi implementanti devono seguire, utilizzando metodi astratti senza implementazione concreta.
+
+# 15 Cosa si intende per ereditarietà in Java?
+
+            In Java, l'ereditarietà consente a una classe di derivare da una sola superclasse, ma può implementare molteplici interfacce per estendere il suo comportamento.
+
+# 16 Cosa si intende per stato di una Classe?
+
+            Lo stato di una classe in Java è definito dall'insieme dei suoi attributi (o proprietà), che rappresentano le caratteristiche dell'oggetto istanziato da quella classe.
+
+# 17 Cosa si intende per comportamento di una Classe?
+
+            Il comportamento di una classe in Java è definito dall'insieme dei suoi metodi, che descrivono le azioni e le interazioni possibili con gli oggetti di quella classe.
+
+# 18 Cosa si intende per servizio?
+  
+            Un servizio in Java è un metodo pubblico offerto da una classe, utilizzato per esporre funzionalità specifiche agli altri componenti del programma.
+
+# 19 Cosa sono i tipi generici <Tipo>? 
+            
+            I tipi generici in Java permettono di definire classi, interfacce e metodi con tipi di dati parametrizzabili, aumentando la riutilizzabilità e la sicurezza del tipo di codice.
+
+# 20 Cosa è un'interfaccia funzionale? 
+
+            Un'interfaccia funzionale in Java è un'interfaccia che contiene un solo metodo astratto, utilizzata principalmente in contesti di programmazione funzionale e lambda expressions.
