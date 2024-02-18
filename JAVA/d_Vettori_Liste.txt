@@ -1,0 +1,18 @@
+# 1 Cosa è un vettore/array?
+
+            Un array in Java è un insieme ordinato di elementi dello stesso tipo, con lunghezza fissa, che può contenere sia tipi primitivi che oggetti. È un oggetto a sé stante, utilizzato ampiamente per la memorizzazione e manipolazione di dati.
+
+# 2 Cosa è una List? 
+
+            
+            La List in Java è un'interfaccia che rappresenta una collezione ordinata di lunghezza variabile, capace di contenere esclusivamente oggetti (non tipi primitivi), offrendo una gamma di metodi per manipolare i dati. 
+
+# 3 Array vs List?
+
+            
+            Gli array in Java sono strutture di dati di lunghezza fissa che possono contenere sia tipi primitivi che oggetti, offrendo accesso rapido agli elementi tramite indice. Le liste, parte dell'interfaccia Collection, sono di lunghezza variabile, possono contenere solo oggetti e forniscono una maggiore flessibilità con una varietà di metodi per manipolare i dati, a costo di una minore performance.
+
+# 4 ArreyList vs LinkedList?
+      
+            ArrayList offre accesso rapido agli elementi e aggiunte efficienti in coda, ma è meno performante in inserzioni e rimozioni al di fuori della coda. LinkedList eccelle in inserzioni e rimozioni flessibili a discapito dell'efficienza nell'accesso diretto agli elementi.
+

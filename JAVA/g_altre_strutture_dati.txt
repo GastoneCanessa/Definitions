@@ -1,0 +1,21 @@
+# 1 Cosa è un Hash?
+           
+            In generale, un hash è un valore generato da una funzione di hashing che trasforma un insieme di dati di dimensione arbitraria in un valore di dimensione fissa, utilizzato per identificare, confrontare o gestire efficientemente i dati nelle strutture informatiche.
+
+# 2 Cosa è un Hash in Java?
+
+            In Java, un hash è un valore intero generato da un oggetto mediante una funzione di hashing, usato per identificare in modo univoco l'oggetto in strutture dati come HashMap, facilitando ricerche rapide ed efficienti.
+
+
+
+# 3 Cosa è un Set?
+
+            Un Set in Java è una collezione di lunghezza variabile che non ammette duplicati e non mantiene un ordine specifico degli elementi, utilizzando hash per garantire l'unicità. È preferito per controlli di presenza con contains e per relazioni senza duplicati, dove la sequenza non è importante.
+
+# 4 Cosa è HashSet?
+
+            HashSet in Java è una implementazione dell'interfaccia Set che utilizza una tabella hash per memorizzare gli elementi, garantendo che non ci siano duplicati. Gli elementi in un HashSet sono disposti in modo non prevedibile, senza un ordine specifico.
+
+# 5 Cosa sono le Mappe?
+
+            Le mappe in Java sono strutture dati che associano chiavi uniche a valori, dove entrambi possono essere di qualsiasi tipo ma consistenti all'interno della stessa mappa. HashMap è un'implementazione concreta che non mantiene l'ordine degli elementi, mentre Map è l'interfaccia formale; di base, le mappe non supportano iterazioni dirette tipo cicli.
